@@ -15,7 +15,7 @@ Esta rama contiene el material perteneciente al cursado de la 4ta cohorte de 202
 - Clase 5: Segmentación de imágenes. Segmentación semántica: U-Net. Segmentación de instancias: Mask R-CNN.
 - Clase 6: Aplicaciones especiales. Transferencia de estilo. Reconocimiento de rostros. Redes generativas adversarias.
 - Clase 7: Ejemplo de aplicación a cargo de Seyed Pakdaman.
-- Clase 8: Examen. Temas de investigación actuales en visión por computadora.
+- Clase 8: Examen. 
 
 ## Profesores
 
