@@ -11,8 +11,8 @@ Esta rama contiene el material perteneciente al cursado de la 5ta cohorte de 202
 - Clase 1: Introducción a problemas en visión por computadora. Clasificación. Arquitecturas AlexNet Y VGGNet. Data Augmentation.
 - Clase 2: Residual Networks, Arquitecturas ResNet. Arquitecturas Inception. Transfer Learning. Ejemplo de TP final.
 - Clase 3: Localización y detección de objetos. Algoritmo de Sliding Windows. mAP. Métodos de dos etapas: R-CNN, Fast R-CNN, Faster R-CNN. Métodos de una etapa: YOLO, SSD.
-- Clase 4: Entrenamiento de redes de objetos. Segmentación de imágenes. Segmentación semántica: U-Net. Segmentación de instancias: Mask R-CNN.
-- Clase 5: Neural Style Transfer. GradCAM. Redes generativas y aplicaciones.
+- Clase 4: Entrenamiento de redes de objetos. Segmentación de imágenes. Segmentación semántica: U-Net. Segmentación de instancias: Mask R-CNN. GradCAM.
+- Clase 5: Neural Style Transfer. Autoencoders.  Redes generativas y aplicaciones.
 - Clase 6: Aprendizaje no supervisado. Visual transformers.
 - Clase 7: Ejemplo de aplicación a cargo de Seyed Pakdaman.
 - Clase 8: Presentación de trabajos integradores.
