@@ -4,26 +4,23 @@ Este repositorio corresponde a la materia Visión por Computadora II de la Carre
 
 Aquí se encuentra todo el material utilizado durante el dictado de la asignatura, como ser: presentaciones de teoría, ejemplos de práctica, ejercicios de tarea, archivos o links a datasets, bibliografía, entre otras.
 
-## Sobre el repositorio
+## Material
 
-El repositorio contiene distintas ramas, cada una correspondiente al dictado de una cohorte, donde se encuentra todo el material utilizado. Las ramas actuales son:
+Esta rama contiene el material perteneciente al cursado de la 9na cohorte de 2022 de la CEIA. El programa de la materia es el siguiente:
 
-- [3co2021](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/3co2021)
-- [4co2021](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/4co2021)
-- [5co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/5co2022)
-- [6co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/6co2022)
-- [7co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/7co2022)
-- [8co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/8co2022)
-- [9co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/9co2022)
-- [10co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/10co2023)
-- [11co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/11co2023)
-  
-Una vez clonado el repositorio, el comando para pasar a alguna de las ramas es `git checkout <nombre_rama>`.
+- Clase 1: Introducción a problemas en visión por computadora. Clasificación. Arquitecturas AlexNet Y VGGNet. Data Augmentation.
+- Clase 2: Residual Networks, Arquitecturas ResNet. Arquitecturas Inception. Transfer Learning. Ejemplo de TP final.
+- Clase 3: Localización y detección de objetos. Algoritmo de Sliding Windows. mAP. Métodos de dos etapas: R-CNN, Fast R-CNN, Faster R-CNN. Métodos de una etapa: YOLO, SSD, RetinaNet, etc.
+- Clase 4: Segmentación de imágenes. Segmentación semántica: U-Net. Segmentación de instancias: Mask R-CNN. GradCAM.
+- Clase 5: Neural Style Transfer. Autoencoders.  Redes generativas y aplicaciones.
+- Clase 6: Aprendizaje no supervisado. Visual transformers.
+- Clase 7: Ejemplo de aplicación a cargo de Seyed Pakdaman.
+- Clase 8: Presentación de trabajos integradores.
 
 ## Profesores
 
 Profesores a cargo del curso:
 
-- Juan Ignacio Cornet (<juanignaciocornet@gmail.com>)
-- Juan Ignacio Cavalieri (<juanignaciocavalieri@gmail.com>)
-- Seyed Pakdaman (<khodadad.pakdaman@gmail.com>)
+- Juan Ignacio Cornet (juanignaciocornet@gmail.com)
+- Juan Ignacio Cavalieri (juanignaciocavalieri@gmail.com)
+- Seyed Pakdaman (khodadad.pakdaman@gmail.com)
