@@ -19,6 +19,7 @@ El repositorio contiene distintas ramas, cada una correspondiente al dictado de 
 - [11co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/11co2023)
 - [12co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/12co2023)
 - [13co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/13co2023)
+- [14co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/14co2023)
   
 Una vez clonado el repositorio, el comando para pasar a alguna de las ramas es `git checkout <nombre_rama>`.
 
