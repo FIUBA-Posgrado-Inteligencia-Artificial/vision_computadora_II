@@ -6,22 +6,17 @@ Aquí se encuentra todo el material utilizado durante el dictado de la asignatur
 
 ## Sobre el repositorio
 
-El repositorio contiene distintas ramas, cada una correspondiente al dictado de una cohorte, donde se encuentra todo el material utilizado. Las ramas actuales son:
+La rama master contiene el contenido mas actualizado de la materia.
 
-- [3co2021](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/3co2021)
-- [4co2021](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/4co2021)
-- [5co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/5co2022)
-- [6co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/6co2022)
-- [7co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/7co2022)
-- [8co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/8co2022)
-- [9co2022](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/9co2022)
-- [10co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/10co2023)
-- [11co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/11co2023)
-- [12co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/12co2023)
-- [13co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/13co2023)
-- [14co2023](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/14co2023)
-- [15co2024](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/15co2024)
-- [16co2024](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/16co2024)
+- [master](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_II/tree/master)
+
+### Clase 1
+Colabs:
+[Data Augmentation](https://colab.research.google.com/drive/1WPRmZz9FGexJlNT-3nD_PZg_zxdPojbr)
+[Librerias Data Augmentation](https://colab.research.google.com/drive/1IxSfVwszSOQjYbLG9JYSFTJ8_eBy5X5P)
+[Ejercicio Extra](https://colab.research.google.com/drive/1s39Gcj8r9SNXzuX0LMEwKoU_JxULT9Gv)
+
+
 
 Una vez clonado el repositorio, el comando para pasar a alguna de las ramas es `git checkout <nombre_rama>`.
 
@@ -30,5 +25,5 @@ Una vez clonado el repositorio, el comando para pasar a alguna de las ramas es `
 Profesores a cargo del curso:
 
 - Juan Ignacio Cornet (<juanignaciocornet@gmail.com>)
-- Juan Ignacio Cavalieri (<juanignaciocavalieri@gmail.com>)
+- Alfonso Rafel (<alfonsorafel93@gmail.com>)
 - Seyed Pakdaman (<khodadad.pakdaman@gmail.com>)
