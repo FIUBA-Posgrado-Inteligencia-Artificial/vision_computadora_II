@@ -15,6 +15,14 @@ Colabs:
 [Data Augmentation](https://colab.research.google.com/drive/1WPRmZz9FGexJlNT-3nD_PZg_zxdPojbr)
 [Librerias Data Augmentation](https://colab.research.google.com/drive/1IxSfVwszSOQjYbLG9JYSFTJ8_eBy5X5P)
 [Ejercicio Extra](https://colab.research.google.com/drive/1s39Gcj8r9SNXzuX0LMEwKoU_JxULT9Gv)
+[Solucion Ejercicio Extra](https://colab.research.google.com/drive/1xA-ljihn7yIGwmK6KIOylMNZCktXc_U8)
+
+### Clase 2
+Colabs:
+[Resnet](https://colab.research.google.com/drive/1TYc2NPpiR9CKbza8mDXeTlfM4_yT2zeo)
+[VGG19](https://colab.research.google.com/drive/1YLNOVsHtGhU5SnTVV0ajGEi9dFuqVJ2q)
+[Resnet18](https://colab.research.google.com/drive/1K_8MHHtgfpcBUmiTDTKF18Bx809CEvtT)
+[Negative Learning](https://colab.research.google.com/drive/1zw1yb2KJ5OeAzAdNFp3-cMCR5xDMUjR0)
 
 
 
