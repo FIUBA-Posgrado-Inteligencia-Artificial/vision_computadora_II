@@ -32,6 +32,11 @@ Colabs:
 [DeeplabV3](https://colab.research.google.com/drive/1OY18VD19YMpCabRXdQDUFHOpLO-Jpo33#scrollTo=Oqx8sctRW1WM)
 [GradCAM](https://colab.research.google.com/drive/1qmibjTuV1vSpKJPIPzpowOEyFWJda2TZ#scrollTo=J0vxbX4Bmm98)
 
+### Clase 5
+Colabs:
+[Neural Style Transfer](https://colab.research.google.com/drive/1fJ_Cn8MPHa0w9zc2MnEGyx1fHlZuXLTO#scrollTo=EPcyiqCtXmhk)
+[Autoencoders](https://colab.research.google.com/drive/1cm0sTi-QrqgtDPIlgYVIYpNbVnbaTwNJ#scrollTo=7BfyigcuI3pJ)
+[DCGAN](https://colab.research.google.com/drive/1jz9Gd8Ou-CbKI-tvB_SAx7tlRVP7Z1sk#scrollTo=VuzqL1Y5Xncx)
 Una vez clonado el repositorio, el comando para pasar a alguna de las ramas es `git checkout <nombre_rama>`.
 
 ## Profesores
