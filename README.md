@@ -39,6 +39,11 @@ Colabs:
 [DCGAN](https://colab.research.google.com/drive/1jz9Gd8Ou-CbKI-tvB_SAx7tlRVP7Z1sk#scrollTo=VuzqL1Y5Xncx)
 Una vez clonado el repositorio, el comando para pasar a alguna de las ramas es `git checkout <nombre_rama>`.
 
+### Clase 6
+Colabs
+[Hyperparameter Tuning](https://colab.research.google.com/drive/1_Yq6SV-jzXS-FfktwKfiG3dWmvtv2QzF#scrollTo=OAP5LQ4iFY29)
+
+
 ## Profesores
 
 Profesores a cargo del curso:
